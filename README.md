@@ -1,3 +1,5 @@
 # MO2-Separator-Pack
 
-Mirror Of https://www.nexusmods.com/skyrimspecialedition/mods/109148
+Simple Pack MO2 Separators
+
+NOTE: Got deleted from Nexus Mods by a moderator...-_-
